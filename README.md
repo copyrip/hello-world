@@ -6,6 +6,8 @@ Random miscellaneous lists.
 * [ ] Publish /erg-wordindex
 * [ ] Add items here
 
-# Semantic Extensions
+## Semantic top-level domains
 * [cecinestpasun.site](http://cecinestpasun.site)
 * [dont.click](http://dont.click)
+* [maboitede.com](http://maboitede.com)
+* [abc.xyz](http://abc.xyz)
