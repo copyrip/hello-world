@@ -5,6 +5,7 @@ Random miscellaneous lists.
 * [ ] Fork /ofont
 * [x] Publish /erg-wordindex
 * [ ] Finish /erg-wordindex
+* [ ] Publish /~SVGFONT~
 * [ ] Publish /HTMLBookmaker
 * [ ] Publish ~/bibilo-collab~
 * [ ] Add items here
@@ -19,7 +20,7 @@ Random miscellaneous lists.
 > **\*** as in authoritarian centralised nationalist ideology.  
 
 * **Regular Expressions** word boundaries stoping at accentuated letters.
-* **Chrome** forcing query to be typed on adress field rather than google.com's search input.
+* ~~**Chrome** forcing query to be typed on adress field rather than google.com's search input.~~
 * **Chrome** ***.lan*** domain names redirection when lacking *http(s)* or *www*.
 * **InDesign** odd millimeters margins converted from inches.
 * **Photoshop** anti-counterfeit banknote editing limitations.
