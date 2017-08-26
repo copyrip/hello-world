@@ -22,6 +22,6 @@ Random miscellaneous lists.
 * **Regular Expressions** word boundaries stoping at accentuated letters.
 * ~~**Chrome** forcing query to be typed on adress field rather than google.com's search input.~~
 * **Chrome** ***.lan*** domain names redirection when lacking *http(s)* or *www*.
-* **InDesign** odd millimeters margins converted from inches.
+* **InDesign** odd millimeters margins when creating a new document, actually converted from inches.
 * **Photoshop** anti-counterfeit banknote editing limitations.
 * **Scanners** hardwired anti-counterfeit banknote system.
