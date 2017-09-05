@@ -25,3 +25,9 @@ Random miscellaneous lists.
 * **InDesign** odd millimeters margins when creating a new document, actually converted from inches.
 * **Photoshop** anti-counterfeit banknote editing limitations.
 * **Scanners** hardwired anti-counterfeit banknote system.
+
+## Encouraging quotes
+
+* "La route est longue, mais la voie est libre."
+* "La marge fait partie de la page."
+* "La meilleur façon d'voter, c'est encore la notre : c'est d'ramasser un pavé et d'le balancer !"
