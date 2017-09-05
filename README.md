@@ -30,4 +30,4 @@ Random miscellaneous lists.
 
 * "La route est longue, mais la voie est libre."
 * "La marge fait partie de la page."
-* "La meilleur façon d'voter, c'est encore la notre : c'est d'ramasser un pavé et d'le balancer !"
+* "La meilleur façon d'voter, c'est encore la notre : c'est d'ramasser des pavés et d'les balancer !"
