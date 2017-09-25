@@ -15,7 +15,11 @@ Random miscellaneous lists.
 * [dont.click](http://dont.click)
 * [maboitede.com](http://maboitede.com)
 * [abc.xyz](http://abc.xyz)
-* [nautil.us](nautil.us)
+* [nautil.us](http://nautil.us)
+* [scri.be](http://scri.be)
+* ~~[technopho.be](technopho.be)~~
+* [sylla.be](http://sylla.be/)
+* [pertur.be](http://pertur.be/)
 
 ## Fascist* by design
 > **\*** as in authoritarian centralised nationalist ideology.  
