@@ -21,6 +21,8 @@ Random miscellaneous lists.
 * [sylla.be](http://sylla.be/)
 * [pertur.be](http://pertur.be/)
 * [donttrack.us/](http://donttrack.us/)
+### *almost*
+* [microtyp.org](http://microtyp.org/)
 
 ## Fascist* by design
 	> **\*** as in authoritarian || centralised || nationalist || militarist || ideology.  
