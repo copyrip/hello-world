@@ -10,7 +10,7 @@ Random miscellaneous lists.
 * [ ] Publish ~/bibilo-collab~
 * [ ] Add items here
 
-## Semantic top-level domains
+## Semantic second-class top-level domains
 * [cecinestpasun.site](http://cecinestpasun.site)
 * [dont.click](http://dont.click)
 * [maboitede.com](http://maboitede.com)
@@ -23,6 +23,9 @@ Random miscellaneous lists.
 * [donttrack.us/](http://donttrack.us/)
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
+
+## Numbers only domains
+* [1060.be](http://1060.be)
 
 ## Fascist* by design
 	> **\*** as in authoritarian || centralised || nationalist || militarist || ideology.  
