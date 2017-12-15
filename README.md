@@ -20,7 +20,8 @@ Random miscellaneous lists.
 * [technopho.be](technopho.be) *(†)*
 * [sylla.be](http://sylla.be/)
 * [pertur.be](http://pertur.be/)
-* [donttrack.us/](http://donttrack.us/)
+* [donttrack.us](http://donttrack.us/)
+* [fish.net](http://fish.net/)
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
 
@@ -48,6 +49,7 @@ Random miscellaneous lists.
 * "La route est longue, mais la voie est libre."
 * "La marge fait aussi partie de la page."
 * "La meilleur façon d'voter, c'est encore la notre : c'est d'ramasser des pavés et d'les balancer !"
+* "La propriété, c'est le vol"
 
 ## Cooking quotes
 * "on ne fait pas d’omelette sans casser des œufs"
