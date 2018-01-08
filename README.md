@@ -22,6 +22,11 @@ Random miscellaneous lists.
 * [pertur.be](http://pertur.be/)
 * [donttrack.us](http://donttrack.us/)
 * [fish.net](http://fish.net/)
+* [toujours.plus](http://toujours.plus)
+* [jai.lu](http://jai.lu)
+* [whole.earth](http://whole.earth)
+* [pro.tips](http://pro.tips)
+* [thatmy.name](https://thatsmy.name)
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
 
