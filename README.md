@@ -26,7 +26,7 @@ Random miscellaneous lists.
 * [jai.lu](http://jai.lu)
 * [whole.earth](http://whole.earth)
 * [pro.tips](http://pro.tips)
-* [thatmy.name](https://thatsmy.name)
+* [thatsmy.name](https://thatsmy.name)
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
 
