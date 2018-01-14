@@ -27,6 +27,7 @@ Random miscellaneous lists.
 * [whole.earth](http://whole.earth)
 * [pro.tips](http://pro.tips)
 * [thatsmy.name](https://thatsmy.name)
+* [lighthou.se](http://lightou.se)
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
 
