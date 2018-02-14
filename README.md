@@ -28,6 +28,8 @@ Random miscellaneous lists.
 * [pro.tips](http://pro.tips)
 * [thatsmy.name](https://thatsmy.name)
 * [lighthou.se](http://lightou.se)
+* [museumofinter.net](http://museumofinter.net/)
+
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
 
