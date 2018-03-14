@@ -29,7 +29,7 @@ Random miscellaneous lists.
 * [thatsmy.name](https://thatsmy.name)
 * [lighthou.se](http://lightou.se)
 * [museumofinter.net](http://museumofinter.net/)
-* [musicandthemindofthe.world/][http://musicandthemindofthe.world/]
+* [musicandthemindofthe.world/](http://musicandthemindofthe.world/)
 
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
@@ -44,8 +44,8 @@ Random miscellaneous lists.
 * [plus32.be](https://www.plus32.be/)
 * [level27.be](https://level27.be/)
 
-## Fascist* by design
-  > **\*** as in authoritarian || centralised || nationalist || militarist || ideology.    
+## Fascist\* by design
+  > **\** as in authoritarian || centralised || nationalist || militarist || ideology.    
 
 * **Regular Expressions** word boundaries stoping at accentuated letters.
 * ~~**Chrome** forcing query to be typed on adress field rather than google.com's search input.~~
