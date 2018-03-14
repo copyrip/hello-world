@@ -29,6 +29,7 @@ Random miscellaneous lists.
 * [thatsmy.name](https://thatsmy.name)
 * [lighthou.se](http://lightou.se)
 * [museumofinter.net](http://museumofinter.net/)
+* [musicandthemindofthe.world/][http://musicandthemindofthe.world/]
 
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
