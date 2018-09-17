@@ -12,25 +12,25 @@ Random miscellaneous lists.
 
 ## Semantic second-class top-level domains
 * [abc.xyz](http://abc.xyz)
-* [cecinestpasun.site](http://cecinestpasun.site)
+* [cecinestpasun.site](http://cecinestpasun.site) **(†)**
 * [con.cat](http://con.cat/)
 * [dont.click](http://dont.click)
 * [donttrack.us](http://donttrack.us/)
-* [fish.net](http://fish.net/)
-* [jai.lu](http://jai.lu)
-* [lighthou.se](http://lightou.se)
+* [fish.net](http://fish.net/) **(†)**
+* [jai.lu](http://jai.lu) **(†)**
+* [lighthou.se](http://lightou.se) **(†)**
 * [maboitede.com](http://maboitede.com)
 * [museumofinter.net](http://museumofinter.net/)
 * [musicandthemindofthe.world](http://musicandthemindofthe.world/)
 * [nard.dog](http://nard.dog/)
 * [nautil.us](http://nautil.us)
-* [pertur.be](http://pertur.be/)
+* [pertur.be](http://pertur.be/) **(†)**
 * [pro.tips](http://pro.tips)
 * [scri.be](http://scri.be)
 * [sylla.be](http://sylla.be/)
-* [technopho.be](technopho.be) *(†)*
+* [technopho.be](http://technopho.be) **(†)**
 * [thatsmy.name](https://thatsmy.name)
-* [toujours.plus](http://toujours.plus)
+* [toujours.plus](http://toujours.plus) **(†)**
 * [whole.earth](http://whole.earth)
 
 ### *almost*
