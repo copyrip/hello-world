@@ -11,26 +11,27 @@ Random miscellaneous lists.
 * [ ] Add items here
 
 ## Semantic second-class top-level domains
-* [cecinestpasun.site](http://cecinestpasun.site)
-* [dont.click](http://dont.click)
-* [maboitede.com](http://maboitede.com)
 * [abc.xyz](http://abc.xyz)
-* [nautil.us](http://nautil.us)
-* [scri.be](http://scri.be)
-* [technopho.be](technopho.be) *(†)*
-* [sylla.be](http://sylla.be/)
-* [pertur.be](http://pertur.be/)
+* [cecinestpasun.site](http://cecinestpasun.site)
+* [con.cat](http://con.cat/)
+* [dont.click](http://dont.click)
 * [donttrack.us](http://donttrack.us/)
 * [fish.net](http://fish.net/)
-* [toujours.plus](http://toujours.plus)
 * [jai.lu](http://jai.lu)
-* [whole.earth](http://whole.earth)
-* [pro.tips](http://pro.tips)
-* [thatsmy.name](https://thatsmy.name)
 * [lighthou.se](http://lightou.se)
+* [maboitede.com](http://maboitede.com)
 * [museumofinter.net](http://museumofinter.net/)
-* [musicandthemindofthe.world/](http://musicandthemindofthe.world/)
-* [nard.dog/](http://nard.dog/)
+* [musicandthemindofthe.world](http://musicandthemindofthe.world/)
+* [nard.dog](http://nard.dog/)
+* [nautil.us](http://nautil.us)
+* [pertur.be](http://pertur.be/)
+* [pro.tips](http://pro.tips)
+* [scri.be](http://scri.be)
+* [sylla.be](http://sylla.be/)
+* [technopho.be](technopho.be) *(†)*
+* [thatsmy.name](https://thatsmy.name)
+* [toujours.plus](http://toujours.plus)
+* [whole.earth](http://whole.earth)
 
 ### *almost*
 * [microtyp.org](http://microtyp.org/)
